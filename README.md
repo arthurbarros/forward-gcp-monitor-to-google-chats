@@ -10,3 +10,7 @@ This is a simple Cloud Functions that read the JSON payload evento from the Goog
 - Go to https://console.cloud.google.com/monitoring/alerting/notifications and create the webhook using the url above
 - Go to https://console.cloud.google.com/errors
 - At the top-right corner click on "Configure Notification" and select the webhook you created i the Notification Channels
+
+
+If everything goes well, the notifications forwarded will look like this:
+![example](example.png)
