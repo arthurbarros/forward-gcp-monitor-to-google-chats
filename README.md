@@ -13,4 +13,4 @@ This is a simple Cloud Functions that read the JSON payload evento from the Goog
 
 
 If everything goes well, the notifications forwarded will look like this:
-![example](chat_example.png)
+![chat_example](chat_example.png)
